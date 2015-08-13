@@ -1,6 +1,6 @@
 {
   "name": "nodebb-plugin-sso-steam",
-  "version": "0.0.9",
+  "version": "0.0.9-fussel",
   "description": "NodeBB Steam SSO",
   "main": "library.js",
   "scripts": {
@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/igorprado/nodebb-plugin-sso-steam"
+    "url": "https://github.com/fusselwurm/nodebb-plugin-sso-steam"
   },
   "keywords": [
     "nodebb",
@@ -38,5 +38,5 @@
   "nbbpm": {
     "compatibility": "^0.6.0"
   },
-  "homepage": "https://github.com/igorprado/nodebb-plugin-sso-steam"
+  "homepage": "https://github.com/fusselwurm/nodebb-plugin-sso-steam"
 }
